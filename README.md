@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on hcmue
 - 🌱 I’m currently learning: ...
 - 💬 Ask me about: PHP, Python, C#
-- 📫 How to reach me: [...](https://tiennvo.net/)
+- 📫 How to reach me: [My website](https://tiennvo.net/)
 - 😄 Pronouns: tiennvo
 - ⚡ Fun fact: nle_1201
 
