@@ -6,7 +6,7 @@
 - 💬 Ask me about: PHP, Python, C#
 - 📫 How to reach me: [My website](https://tiennvo.net/)
 - 😄 Pronouns: tiennvo
-- ⚡ Fun fact: nle_1201
+- ⚡ Fun fact: tiennvo
 
 ## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
