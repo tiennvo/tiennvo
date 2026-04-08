@@ -16,10 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-## 📈 GitHub Stats
-![Tienn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiennvo&show_icons=true&theme=radical)
-
 ## ✨ Quote
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tiennvo/tiennvox/blob/output/github-contribution-grid-snake.svg)
