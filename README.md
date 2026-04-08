@@ -19,4 +19,7 @@
 ## ✨ Quote
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-![snake gif](https://raw.githubusercontent.com/tiennvo/tiennvo/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiennvo/tiennvo/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/tiennvo/tiennvo/output/github-contribution-grid-snake.svg">
+</picture>
